@@ -1,46 +1,56 @@
-# 👋 Hey, I'm Salah Uddin
+🌟 SALAH UDDIN 🌟
 
-💻 Aspiring **Django Developer** | 🐍 Python Lover | 🌐 Web Builder  
-📍 Feni, Bangladesh | 📧 mniloy@gmail.com
-
----
-
-## 🚀 About Me
-
-I'm a tech enthusiast who loves turning ideas into real, usable web applications. Skilled in **Python**, **Django**, and REST APIs, with a growing frontend toolkit. Eager to learn, build, and contribute.
+✨ Aspiring Django Developer | 🐍 Python Enthusiast | 💻 Web Creator  
+📍 Feni, Bangladesh  
+📫 Email: mniloy@gmail.com
 
 ---
 
-## 🔧 Tech Stack
+## 🌟 About Me
 
-- 🧠 **Languages:** Python, C, C++, JS  
-- 🖥️ **Backend:** Django, DRF  
-- 🎨 **Frontend:** HTML, CSS, Tailwind, Bootstrap  
-- 🗄️ **Databases:** SQLite, MySQL, PostgreSQL  
-- 🛠️ **Tools:** Git, GitHub, API Testing
-
----
-
-## 💼 Projects
-
-### 🛍️ Mango Shop  
-E-commerce site with product/order management + responsive UI.
-
-### 🧑‍💼 HireHub  
-Job portal with user/job CRUD via REST APIs.
+⭐ Passionate about building web apps with **Django** and **REST API**  
+⭐ Strong foundation in **Python**, problem solving, and full-stack development  
+⭐ Solved 600+ DSA problems, including 130+ on **LeetCode**  
+⭐ Quick learner, team player, and always exploring new tech
 
 ---
 
-## 🧠 Extras
+## 🚀 Projects
 
-- 🔍 600+ DSA problems solved (130+ on LeetCode)  
-- 🎙️ Public Speaking & Mentoring  
-- ⏱️ Great at managing time and learning fast
+### 🛒 Mango Shop  
+⭐ E-commerce platform with admin dashboard, product/order CRUD  
+⭐ Built using **Django**, **MySQL**, **Bootstrap**, and **JavaScript**
+
+### 💼 HireHub  
+⭐ Job portal with user auth, job post APIs, and resume management  
+⭐ Built with **Django REST Framework** and **Tailwind CSS**
 
 ---
 
-## 📬 Let's Connect
+## 🛠️ Skills
 
-📧 mniloy@gmail.com  
+**Languages**: Python ⭐ C ⭐ C++ ⭐ JavaScript  
+**Backend**: Django ⭐ DRF  
+**Frontend**: HTML ⭐ CSS ⭐ Bootstrap ⭐ Tailwind  
+**Database**: SQLite ⭐ MySQL ⭐ PostgreSQL  
+**Tools**: Git ⭐ GitHub ⭐ API Testing ⭐ Debugging
+
+---
+
+## 🌈 Soft Skills
+
+⭐ Leadership & Communication  
+⭐ Time Management  
+⭐ Public Speaking & Mentorship  
+⭐ Fast Learner & Problem Solver
+
+---
+
+## 📬 Contact
+
+📧 **Email:** mniloy@gmail.com  
 🌐 *Portfolio & socials coming soon!*
 
+---
+
+> ⭐ “Stay hungry, stay foolish.” – Steve Jobs
