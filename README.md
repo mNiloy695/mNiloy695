@@ -6,28 +6,28 @@
 
 ---
 
-## 🌟 About Me
+ 🌟 About Me
 
 ⭐ Passionate about building web apps with **Django** and **REST API**  
-⭐ Strong foundation in **Python**, problem solving, and full-stack development  
+⭐ Strong foundation in **Python**, problem solving, and Backend development  
 ⭐ Solved 600+ DSA problems, including 130+ on **LeetCode**  
 ⭐ Quick learner, team player, and always exploring new tech
 
 ---
 
-## 🚀 Projects
+ 🚀 Projects
 
-### 🛒 Mango Shop  
+🛒 Mango Shop  
 ⭐ E-commerce platform with admin dashboard, product/order CRUD  
 ⭐ Built using **Django**, **MySQL**, **Bootstrap**, and **JavaScript**
 
-### 💼 HireHub  
+💼 HireHub  
 ⭐ Job portal with user auth, job post APIs, and resume management  
 ⭐ Built with **Django REST Framework** and **Tailwind CSS**
 
 ---
 
-## 🛠️ Skills
+ 🛠️ Skills
 
 **Languages**: Python ⭐ C ⭐ C++ ⭐ JavaScript  
 **Backend**: Django ⭐ DRF  
@@ -37,7 +37,7 @@
 
 ---
 
-## 🌈 Soft Skills
+ 🌈 Soft Skills
 
 ⭐ Leadership & Communication  
 ⭐ Time Management  
@@ -46,7 +46,7 @@
 
 ---
 
-## 📬 Contact
+📬 Contact
 
 📧 **Email:** mniloy@gmail.com  
 🌐 *Portfolio & socials coming soon!*
