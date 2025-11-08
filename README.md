@@ -48,7 +48,7 @@
 
 📬 Contact
 
-📧 **Email:** mniloy@gmail.com  
+📧 **Email:** mniloy695@gmail.com  
 🌐 *Portfolio & socials coming soon!*
 
 ---
