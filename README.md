@@ -1,55 +1,57 @@
-🌟🌟🌟🌟 SALAH UDDIN** 🌟🌟🌟
+# 🌟 SALAH UDDIN
 
 ✨ Aspiring Django Developer | 🐍 Python Enthusiast | 💻 Web Creator  
 📍 Feni, Bangladesh  
-📫 Email: mniloy@gmail.com
+📫 Email: mniloy695@gmail.com  
 
 ---
 
- 🌟 About Me
+## 🌟 About Me
 
-⭐ Passionate about building web apps with **Django** and **REST API**  
-⭐ Strong foundation in **Python**, problem solving, and Backend development  
+⭐ Passionate about building web applications with **Django** and **REST APIs**  
+⭐ Strong foundation in **Python**, problem-solving, and backend development  
 ⭐ Solved 600+ DSA problems, including 130+ on **LeetCode**  
-⭐ Quick learner, team player, and always exploring new tech
+⭐ Quick learner, team player, and always exploring new technologies  
 
 ---
 
- 🚀 Projects
+## 🚀 Projects
 
-🛒 Mango Shop  
-⭐ E-commerce platform with admin dashboard, product/order CRUD  
-⭐ Built using **Django**, **MySQL**, **Bootstrap**, and **JavaScript**
+### 🛒 Mango Shop
+- E-commerce platform with admin dashboard
+- Product and order CRUD system
+- Built using **Django**, **MySQL**, **Bootstrap**, and **JavaScript**
 
-💼 HireHub  
-⭐ Job portal with user auth, job post APIs, and resume management  
-⭐ Built with **Django REST Framework** and **Tailwind CSS**
-
----
-
- 🛠️ Skills
-
-**Languages**: Python ⭐ C ⭐ C++ ⭐ JavaScript  
-**Backend**: Django ⭐ DRF  
-**Frontend**: HTML ⭐ CSS ⭐ Bootstrap ⭐ Tailwind  
-**Database**: SQLite ⭐ MySQL ⭐ PostgreSQL  
-**Tools**: Git ⭐ GitHub ⭐ API Testing ⭐ Debugging
+### 💼 HireHub
+- Job portal with user authentication
+- Job posting APIs and resume management system
+- Built with **Django REST Framework** and **Tailwind CSS**
 
 ---
 
- 🌈 Soft Skills
+## 🛠️ Skills
 
-⭐ Leadership & Communication  
-⭐ Time Management  
-⭐ Public Speaking & Mentorship  
-⭐ Fast Learner & Problem Solver
+**Languages:** Python | C | C++ | JavaScript  
+**Backend:** Django | Django REST Framework  
+**Frontend:** HTML | CSS | Bootstrap | Tailwind CSS  
+**Database:** SQLite | MySQL | PostgreSQL  
+**Tools:** Git | GitHub | API Testing | Debugging  
 
 ---
 
-📬 Contact
+## 🌈 Soft Skills
 
-📧 **Email:** mniloy695@gmail.com  
-🌐 *Portfolio & socials coming soon!*
+- Leadership & Communication  
+- Time Management  
+- Public Speaking & Mentorship  
+- Fast Learner & Problem Solver  
+
+---
+
+## 📬 Contact
+
+📧 Email: **mniloy695@gmail.com**  
+🌐 Portfolio & socials coming soon  
 
 ---
 
