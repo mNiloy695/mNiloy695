@@ -1,6 +1,6 @@
 # 🌟 SALAH UDDIN
 
-✨ Aspiring Django Developer | 🐍 Python Enthusiast | 💻 Web Creator  
+✨ Aspiring Backend Developer | 🐍 Python Enthusiast | 💻 Web Creator  
 📍 Feni, Bangladesh  
 📫 Email: mniloy695@gmail.com  
 
